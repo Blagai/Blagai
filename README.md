@@ -9,3 +9,5 @@ I'm working on my JavaScript right now by creating some open-source projects in 
 
 Most of the tools I make are because I'm lazy and need to automate my shit.
 Other stuff I make is either because I want it to exist and it doesn't, or out of boredom.
+
+If you want to help me with anything hit me up on Discord @chloethebitch
