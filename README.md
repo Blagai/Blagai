@@ -5,8 +5,6 @@ Lately, I've been interested in some open-source projects and other things beyon
 
 I mostly program with C# and C++, because they are used in Unity and Unreal.
 
-I'm working on my JavaScript right now by creating some open-source projects in it.
-
 Most of the tools I make are because I'm lazy and need to automate my shit.
 Other stuff I make is either because I want it to exist and it doesn't, or out of boredom.
 
