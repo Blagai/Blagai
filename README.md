@@ -8,4 +8,4 @@ I mostly program with C# and C++, because they are used in Unity and Unreal.
 Most of the tools I make are because I'm lazy and need to automate my shit.
 Other stuff I make is either because I want it to exist and it doesn't, or out of boredom.
 
-If you want to help me with anything or have any cool ideas hit me up on Discord @chloethebitch
+If you want to help me with anything or have any cool ideas hit me up on Discord @blagai
